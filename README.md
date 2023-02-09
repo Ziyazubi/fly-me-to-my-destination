@@ -28,8 +28,10 @@ fuelCount: value of first index of array
 jump = 1 (current jump we are making)
 
 Here, 
+
 currMaxReach: maximum we can reach from that index
 	i.e., index + value at that index
+
 fuelCount: stores the number of steps we can still take in the current jump
 
 At each iteration, from i = 1 to n-1:
