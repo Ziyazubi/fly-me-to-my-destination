@@ -29,7 +29,8 @@ currMaxReach: maximum we can reach from that index
 	i.e., index + value at that index
 fuelCount: stores the number of steps we can still take in the current jump
 
-At each iteration, from i = 1 to n-1:  
+At each iteration, from i = 1 to n-1:
+
 	a. Initially, We check if we have reached the end of array. If yes, we simply return jump
 	
 	b. Update current max reach
