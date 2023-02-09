@@ -20,8 +20,11 @@ In the given array, there are 9 airports, the plane at the starting airport has 
 # Explanation:
 
 Initially, we set: 
+
 currMaxReach = value of first index of array
+
 fuelCount: value of first index of array
+
 jump = 1 (current jump we are making)
 
 Here, 
